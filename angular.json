@@ -25,6 +25,11 @@
             "styles": [
               "src/styles.css"
             ],
+            "stylePreprocessorOptions": {
+              "includePaths": [
+                "src/123"
+              ]
+            },
             "scripts": []
           },
           "configurations": {
